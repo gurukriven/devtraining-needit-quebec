@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Order Lines" max_length="40" name="x_58872_needit_order_lines" sizeclass="2" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Order Line Details" max_length="45" name="order_line_details" type="string"/>
+        <element label="Order Number Reference" max_length="32" name="order_number_reference" reference="x_58872_needit_purchase_order_table" type="reference"/>
+        <index name="index">
+            <element name="order_number_reference"/>
+        </index>
+    </element>
+</database>

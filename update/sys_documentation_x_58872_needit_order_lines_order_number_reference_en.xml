@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="order_number_reference" label="Order Number Reference" language="en" table="x_58872_needit_order_lines">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>order_number_reference</element>
+            <help/>
+            <hint/>
+            <label>Order Number Reference</label>
+            <language>en</language>
+            <name>x_58872_needit_order_lines</name>
+            <plural>Order Number References</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-20 00:06:14</sys_created_on>
+            <sys_id>dea96d808776b010770bcaaf8bbb359b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Order Number Reference</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_order_lines_order_number_reference_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-20 00:06:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
